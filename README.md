@@ -22,7 +22,7 @@ Aplicação que imita a interface do Twitter utilizando React.
 
 ## :hammer_and_wrench: Features 
 
--   [ ] É registrar e responder novos tweets.
+-   [ ] É possível registrar e responder novos tweets.
 
 ## 📲 Executando o projeto
 
